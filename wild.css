@@ -1,0 +1,31 @@
+.bg-light {
+    background-color: #ffc107!important;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 600px;
+}
+
+h1{
+	text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+.footer{
+	background-color: #ffc107!important;
+    height: 110px;
+    margin-top: 30px;
+    display: flex;
+}
+h5{
+    color: brown;
+}
+
+h6{
+    color:blue;
+}
+p{
+    color: white;
+}
